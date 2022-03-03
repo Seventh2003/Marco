@@ -1,8 +1,18 @@
-
 .content{
 background-image: none;
 position: static;
 border-left:salmon;
 border-left:salmon;
 border-width: 0cm;
+}
+
+
+#bg {
+
+position: fixed;
+top: 0;
+left: 0;
+
+min-width: 100%;
+min-height: 100%;
 }
